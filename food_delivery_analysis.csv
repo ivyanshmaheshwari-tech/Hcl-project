@@ -1,0 +1,11 @@
+Order_ID,Customer,Food_Item,Quantity,Price_Per_Item,Revenue,Calculated_Revenue,Revenue_Status
+101,Aman,Burger,2,120,240,240,Correct
+102,Priya,Pizza,1,250,250,250,Correct
+103,Rahul,Pasta,2,180,360,360,Correct
+104,Neha,Sandwich,3,90,270,270,Correct
+105,Karan,Momos,2,100,200,200,Correct
+106,Simran,Dosa,1,140,140,140,Correct
+107,Rohit,Paneer Roll,2,130,260,260,Correct
+108,Ananya,Biryani,1,220,220,220,Correct
+109,Vikas,Cold Coffee,2,110,220,220,Correct
+110,Meena,Fries,2,60,130,120,Incorrect
